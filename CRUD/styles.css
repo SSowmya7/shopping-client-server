@@ -1,0 +1,46 @@
+.container{
+    height: 100vh;
+    padding:50px;
+    background-color:#E78895;
+    overflow-x:hidden;
+}
+.modal{
+    display: none;
+}
+table{
+    align-items: center;
+    padding: 10px;
+    margin: auto;
+    width:100%;
+    border:#FFF7F1 ;
+
+}
+tr{
+    padding: 100px;
+    height: 50px;
+    align-items: center;
+}
+button,
+#addPost{
+padding:10px;
+background-color: #FFE4C9;
+border-radius:5px ;
+border: none;
+margin: auto;
+}
+#table-headers,
+.table-section{
+    width:100%;
+    background-color: #FFF7F1;
+    margin-top: 5px;
+
+}
+td{
+    align-items: center;
+    text-align: center;
+    /* background-color: #FFF7F1; */
+}
+img{
+    height: 100px;
+    width: 100px;
+}
